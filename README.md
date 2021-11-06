@@ -8,3 +8,4 @@ Ignored:
 4) .tfvars, bc often contain sensetive data
 5) Override files, bc override resourses locally and so not checked in
 6) CLI config files, bc you change it anyway on your local machine
+7) New Line
